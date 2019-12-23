@@ -1,4 +1,4 @@
-# Dancing-on-the-moon
+# Lesson 3: Dancing-on-the-moon
 
 ## Author
 Leslie8826
