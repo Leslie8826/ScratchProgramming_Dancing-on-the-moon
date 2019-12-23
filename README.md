@@ -1,6 +1,7 @@
 # Dancing-on-the-moon
 
-## Leslie8826
+## Author
+Leslie8826
 
 ### Difficulty
 Easy
