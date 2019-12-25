@@ -3,16 +3,16 @@
 ## Author
 Leslie8826
 
-## Audience: 
+## Audience 
 Middle School Students
 
-## Term:
+## Term
 Fall 2019
 
 ## Difficulty
 Easy
 
-## Objectives: 
+## Objectives 
   - Students will be able to: 
        * implement a background to their animation
        * make their sprite move horizontally (left and right)
@@ -22,6 +22,6 @@ Easy
        * "switch to costume" blocks
        * move blocks
 
-## Outcome:
+## Outcome
 https://scratch.mit.edu/projects/340706654
 
