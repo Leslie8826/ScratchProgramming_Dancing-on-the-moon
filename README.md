@@ -22,6 +22,6 @@ Easy
        * "switch to costume" blocks
        * move blocks
 
-## Outcome
+## Output
 https://scratch.mit.edu/projects/340706654
 
