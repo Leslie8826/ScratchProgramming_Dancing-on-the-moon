@@ -1,18 +1,19 @@
-# Lesson 3: Dancing on the moon
+# Scratch Programming 
+## Lesson 3: Dancing on the moon
 
-## Author
+### Author
 Leslie8826
 
-## Audience 
+### Audience 
 Middle School Students
 
 ## Term
 Fall 2019
 
-## Difficulty
+### Difficulty
 Easy
 
-## Objectives 
+### Objectives 
   - Students will be able to: 
        * implement a background to their animation
        * make their sprite move horizontally (left and right)
@@ -22,6 +23,6 @@ Easy
        * "switch to costume" blocks
        * move blocks
 
-## Output
+### Output
 https://scratch.mit.edu/projects/340706654
 
